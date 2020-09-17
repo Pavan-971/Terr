@@ -20,7 +20,7 @@ pipeline {
       steps {
         
         
-        sh "echo hi.........hhhhh"
+        sh "echo hi.....hhhhh"
         
       }
     }
